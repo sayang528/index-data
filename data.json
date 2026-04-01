@@ -1,1 +1,14 @@
-
+{
+  "last_updated": "2024年12月25日",
+  "stats": [
+    {
+      "name": "项目A",
+      "value": 100
+    },
+    {
+      "name": "项目B",
+      "value": 200
+    }
+  ],
+  "message": "数据展示正常！"
+}
