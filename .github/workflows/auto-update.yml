@@ -36,4 +36,3 @@ jobs:
           git add data.json
           # 修复3：无数据变更时不报错，直接跳过
           git diff --cached --exit-code && echo "无数据变更，无需提交" || (git commit -m "自动更新指数估值数据" && git push)
- 
