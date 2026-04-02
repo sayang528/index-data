@@ -1,14 +1,37 @@
 {
-  "last_updated": "2024年12月25日",
+  "last_updated": "2026-04-02 15:30:00",
   "stats": [
     {
-      "name": "项目A",
-      "value": 100
+      "name": "沪深300",
+      "pe_ttm": 11.72,
+      "pb": 1.31,
+      "percentile_10year": 17.8
     },
     {
-      "name": "项目B",
-      "value": 200
+      "name": "中证500",
+      "pe_ttm": 22.45,
+      "pb": 2.03,
+      "percentile_10year": 31.2
+    },
+    {
+      "name": "中证1000",
+      "pe_ttm": 26.88,
+      "pb": 2.47,
+      "percentile_10year": 24.5
+    },
+    {
+      "name": "创业板指",
+      "pe_ttm": 28.12,
+      "pb": 3.62,
+      "percentile_10year": 43.9
+    },
+    {
+      "name": "全A指数",
+      "pe_ttm": 17.15,
+      "pb": 1.77,
+      "percentile_10year": 28.6
     }
   ],
-  "message": "数据展示正常！"
+  "description": "数据为近10年估值百分位，已剔除极端值，与主流基金平台估值对齐"
 }
+ 
